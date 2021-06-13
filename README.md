@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neelshah2409&label=Profile%20views&color=0e75b6&style=flat" alt="neelshah2409" /> </p>
+- 👯 I’m looking to collaborate on **android projects.**
+
+- 📫 How to reach me **shahneel2409@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelshah2409&show_icons=true&locale=en" alt="neelshah2409" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelshah2409&" alt="neelshah2409" /></p>
-
