@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=7868E6&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm Neel%2C;a+junior+from+L.D.+Ahmedabad%2C+India.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=7868E6&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Neel%2C;a+junior+from+L.D.+Ahmedabad%2C+India.)](https://git.io/typing-svg)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gowthamgoush&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamgoush" /> </p>
 
 ##
