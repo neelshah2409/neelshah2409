@@ -13,7 +13,7 @@
 <h3 align="center">Streak stats:</h3>
 <p align="center">
   <a href="https://github.com/neelshah2409">
-    <img alt="Neel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamgoush&theme=tokyonight&hide_border=true"/>
+    <img alt="Neel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=neelshah&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
