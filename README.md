@@ -16,6 +16,6 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=neelshah2409&hide=php&theme=tokyonight" />
 </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelshah2409&show_icons=true&locale=en" alt="neelshah2409" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelshah2409&show_icons=true&locale=en" alt="neelshah2409" theme="tokyonight"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelshah2409&" alt="neelshah2409" /></p>
