@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p>
-<h1 align="center">Hi 👋, I'm Neel Shah</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Neel+Shah;a+coder+from+Ahmedabad%2C+India.)](https://git.io/typing-svg)
 <h3 align="center">A passionate android developer from India</h3>
 
 - 👯 I’m looking to collaborate on **android projects.**
