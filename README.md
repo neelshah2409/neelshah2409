@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p>
-<h1 align="center"> I'm Neel Shah </h1>
+<h1 align="center"> 👋 I'm Neel Shah </h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 - 👯 I’m looking to collaborate on **android projects.**
