@@ -1,5 +1,5 @@
 ![1_oUBIXuxlCuswqeQrHM9Y6g](https://user-images.githubusercontent.com/53599318/99911654-edaf7d00-2d1b-11eb-8b33-396bff4a7575.gif)
-https://camo.githubusercontent.com/ab60cd8323a505b5f1f8cc3613afaed1eb5a48fd00506ed5715b56dba1c24b18/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e676966
+![image](https://camo.githubusercontent.com/ab60cd8323a505b5f1f8cc3613afaed1eb5a48fd00506ed5715b56dba1c24b18/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e676966.gif)
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
