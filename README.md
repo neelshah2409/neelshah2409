@@ -24,10 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelshah2409&" alt="neelshah2409" /></p>
 
-![](https://activity-graph.herokuapp.com/graph?username=neelshah2409&theme=github)
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/neelshah2409/neelshah2409/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<!-- https://github.com/neelshah2409/neelshah2409/blob/output/github-contribution-grid-snake.gif?raw=true -->
