@@ -6,9 +6,9 @@
 <hr>
 <p>
 <h1 align="center"> 👋 I'm Neel Shah </h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate  developer from India , eager to learn new techies!!</h3>
 
-- 👯 I’m looking to collaborate on **android projects.**
+- 👯 I’m looking to collaborate on **android,flutter and python projects.**
 
 - 📫 How to reach me **shahneel2409@gmail.com**
 
