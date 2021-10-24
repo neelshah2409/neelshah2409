@@ -22,8 +22,8 @@
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=neelshah2409&show_icons=true&locale=en&theme=dracula" alt="neelshah2409" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelshah2409&layout=compact&theme=dark" height="450" width="400"/>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelshah2409&" alt="neelshah2409" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelshah2409&theme=dark" alt="neelshah2409" /></p>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=neelshah2409&theme=radical&column=8&theme=dark alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=neelshah2409&theme=radical&column=8 alt="Trophies" />
     </a>
   </div>
