@@ -24,6 +24,6 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelshah2409&" alt="neelshah2409" /></p>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=neelshah2409&theme=radical&column=8" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=neelshah2409&theme=radical&column=8&theme=dark alt="Trophies" />
     </a>
   </div>
