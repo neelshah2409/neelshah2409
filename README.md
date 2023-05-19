@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
 <h3 align="center">A passionate developer from India , eager to learn new techies!!</h3>
 
-- 🔭 I’m currently working on **data science projects.**
+- 🔭 I’m currently working on **CLOUD and DATA SCIENCE projects.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
