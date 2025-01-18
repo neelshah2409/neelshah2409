@@ -1,18 +1,20 @@
-
-<p>
- 
-<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="auto" height="300" />
-</p>
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
-<h3 align="center">A passionate developer from India , eager to learn new techies!!</h3>
+<p>
+ <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="side Image" align="center" width="auto" height="300" />
+<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="center" width="auto" height="300" />
+</p>
+<p>
+<h3 align="center">A passionate DevOps community guy from India , eager to learn new tech!!</h3>
 
-- 🔭 I’m currently working on **CLOUD and DATA SCIENCE projects.**
+- 🔭 I’m currently working on **Cloud, DevOps and Open Source projects.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on **open source projects and community collaboration.**
 
 - 📫 How to reach me **shahneel2409@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+</p>
 <p align="left">
 <a href="https://twitter.com/shahneel2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahneel2409" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/neel-shah-07460218a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-shah-07460218a" height="30" width="40" /></a>
